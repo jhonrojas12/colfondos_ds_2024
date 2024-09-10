@@ -13,12 +13,18 @@ Está es la solución de la prueba.
 
 A continuación están las credenciales de una base de datos de MySQL donde esta consolidada la información de las tablas del archivo de retailers:
 
-host='database-1.cwqfoh27htqv.us-east-2.rds.amazonaws.com'
-port=3306
+
+host='database-1.cwqfoh27htqv.us-east-2.rds.amazonaws.com' 
+
+port=3306 
+
 user='admin'
-password='admin123'
+
+password='admin123' 
+
 database='dbcolfondos'
-tabla='consolidada'
+
+tabla='consolidada' 
 
 Se adjunta una imagen que muestra la tabla en la base de datos MySQL, ver archivo 'tabla_SQL.png'
 
